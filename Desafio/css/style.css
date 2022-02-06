@@ -1,0 +1,135 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+  input#pointer {
+    margin: 1px solid black;
+    cursor: pointer;
+}
+
+a.go:hover {
+    
+    background-color: rgb(184, 120, 25);
+}
+a.go {
+     
+    text-decoration: none;
+    border-radius: 20%;
+    margin: 10px;
+    font-family: helvetica;
+    padding: 10px;
+    cursor: pointer;
+}
+
+header {
+    width: auto;
+    height: 40px;
+    border: 1px solid black;
+    background-color: #212121 ;
+    margin: 0 auto;
+    align-items: center;
+}
+h3#logo {
+    width: 80%;
+    height: 15px;
+    color:white;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: helvetica;
+    
+    
+    
+}
+
+nav {
+    position: absolute;
+    top:13px;
+    right: 10%;
+     
+     
+     
+     
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 30px;
+    font-family: helvetica;
+    color:white;
+ }
+    li {
+        margin: 3px;
+         align-items: flex-end;
+        color: white;
+    }
+
+    
+
+footer {
+    width: 96%;
+     
+    margin: 10px auto;
+    height: 66px;
+ align-items: center;
+    background-color: #212121 ;
+    bottom: auto;
+}
+
+main {
+    width: 790px;
+    height: 68px;
+    
+    margin: 128px 430px -57px 310px;
+    padding: 170px;
+    border: 1px solid rgb(30, 192, 204);
+}
+
+
+:root {
+       
+    background-color: whitesmoke;
+  
+}
+  
+     
+    div#quadrado {
+        width: 324px;
+    height: 154px;
+    border-right: dotted rgba(48, 42, 42, 0.712);
+    margin: -66px 15px 21px -39px;
+    padding: 40px;
+    }
+
+    h3.rodape {
+        color: white;
+        text-align: center;
+            font-family: helvetica;
+             margin-top: 10%;
+             padding: 20px;
+              
+        
+    }
+   
+
+    input#inputemail {
+    padding: 5px;
+    width: 300px;
+    border-radius: 2px solid black;
+    color: black;
+    border: solid black;
+    margin: 1px solid black;
+    align-items: center;
+   
+    }
+    div#email {
+        width: 60px;
+        height: auto;
+        margin: -150px 500px 300px 400px;
+    }
+    fieldset {
+        padding: 2px;
+        border: none;}
+
+    
