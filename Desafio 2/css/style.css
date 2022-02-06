@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+header{
+    width: 0 auto;
+    height: 200px;
+     background: linear-gradient(#2195f3b6, #3D5AFE);
+     margin: 0 auto;
+     justify-content: center;
+     align-items: center;
+     
+}
+
+#centralizar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    justify-content: center;
+    display: flex;
+    position: relative;
+     top: 25%;
+    align-items: center;
+     
+    }
+
+    #estilo2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top: 30%;
+    align-items: center;
+
+    }
+
+    
+
+    div#icone {
+      position: absolute;
+      top: 21%;
+      justify-content: center;
+      align-items:center ;
+      border-radius: 100%;
+      margin: 2px;
+      padding: 10px;
+      background-color: white;
+      right: 47%;
+    }
+    #icone32 {
+        font-size: 68px;
+        border-radius: 10px;
+        color: #2195f3b6;
+        
+     
+     
+    
+     
+
+    }
+
+   div#divform{
+    margin: 130px 378px 53px 610px;
+
+
+   }
+
+    form{
+       height: 0 auto;
+       width: 350px;
+       border: 1px solid black;
+       padding: 20px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    input{
+        border: 1px solid black;
+        margin: 10px auto;
+        width: 320px;
+    }
+    input#inpmod{
+        padding: 5px;
+        background: linear-gradient(#2195f3b6, #3D5AFE);
+    }
